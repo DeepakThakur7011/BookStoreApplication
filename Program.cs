@@ -1,6 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
-var dee = builder.Build();
+var aee = builder.Build();
 
-dee.MapGet("/", () => "Hello World!");
+aee.MapGet("/", () => "Hello World!");
 
-dee.Run();
+aee.Run();
