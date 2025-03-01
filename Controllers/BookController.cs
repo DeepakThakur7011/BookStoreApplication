@@ -6,7 +6,7 @@ namespace WebApplication7.Controllers
     {
         public string name()
         {
-            return "deepak";
+            return "dee";
         }
     }
 }
