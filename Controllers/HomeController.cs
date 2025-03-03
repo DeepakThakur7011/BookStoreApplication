@@ -4,9 +4,9 @@ namespace WebApplication7.Controllers
 {
     public class HomeController : Controller
     {
-       public IActionResult Index()
+       public string name()
         {
-            return View();
+            return "deepak" ;
         }
     }
 }
