@@ -1,23 +1,15 @@
-//var builder = WebApplication.CreateBuilder(args);
-//var aee = builder.Build();
+var builder = WebApplication.CreateBuilder(args);
 
-//aee.MapGet("/", () => "Hello World!");
+// Add services to the container.
+builder.Services.AddControllersWithViews();
 
-//aee.Run();
-namespace WebApplication7
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            CreateHostBuilder(args).Build().Run();
-        }
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-        
-            Host.CreateDefaultBuilder(args).ConfigureWebHostDefaults(webBuilder =>
-            {
-                webBuilder.UseStartup<Startup>();
-            });
-        
-    }
-}
+var app = builder.Build();
+
+app.UseRouting();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+app.Run();

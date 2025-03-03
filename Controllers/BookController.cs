@@ -4,7 +4,7 @@ using WebApplication7.Repository;
 
 namespace WebApplication7.Controllers
 {
-    public class BookController : ControllerBase
+    public class BookController : Controller
     {
         private readonly BookRepository _bookRepository = null;
         public BookController()
