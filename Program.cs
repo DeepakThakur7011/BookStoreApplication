@@ -7,6 +7,8 @@ var app = builder.Build();
 
 app.UseRouting();
 
+app.UseStaticFiles();
+
 app.MapControllerRoute
     (
         name: "default",
