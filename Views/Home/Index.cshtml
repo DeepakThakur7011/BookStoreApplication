@@ -1,16 +1,73 @@
 ﻿
 @{
-    Layout = null;
+    Layout = "_Layout";
 }
 
-<!DOCTYPE html>
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1>Welcome book store</h1>
+        <p class="lead text-muted text-white">
+            the CSS property that helps control layout by providing a third axis to arrange content.
+            We utilize a default z-index scale in Bootstrap that’s been designed to properly layer 
+            navigation, tooltips and popovers, modals, and more.
+             These higher values start at an arbitrary number, high and specific enough to ideally
+             avoid conflicts. We need a standard set of these across our layered components—tooltips,
+             popovers, navbars, dropdowns, modals—so we can be reasonably consistent in the behaviors.
+             There’s no reason we couldn’t have used
+        </p>
+        <p>
+            <a href="#"  class="btn btn-primary my-2">Search Book</a>
+        </p>
+    </div>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>View</title>
-</head>
-<body>
-<h1>Wellcome to the book store</h1>
-</body>
-</html>
+    <div class="py-5 bg-light">
+       <div class="container">
+           <h3 class="h3">Top Books</h3>
+           <div class="row">
+               <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm" >
+                        <svg class="bd-placehoder-img card-img-top" width="100%" height="225"></svg>
+                        <div class="card-body">                            
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-sm btn-outline-secondory">View Details</a>
+                                </div>
+                                <small class="text-muted">Author Name</small>
+                            </div>
+                        </div>
+                    </div>
+               </div>
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <svg class="bd-placehoder-img card-img-top" width="100%" height="225"></svg>
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-sm btn-outline-secondory">View Details</a>
+                                </div>
+                                <small class="text-muted">Author Name</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4 shadow-sm">
+                        <svg class="bd-placehoder-img card-img-top" width="100%" height="225"></svg>
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <a href="#" class="btn btn-sm btn-outline-secondory">View Details</a>
+                                </div>
+                                <small class="text-muted">Author Name</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           </div>
+       </div>
+
+    </div>
+</section>
