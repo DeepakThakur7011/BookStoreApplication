@@ -1,0 +1,17 @@
+﻿@model IEnumerable<BookModel>
+
+<div class="container">
+    <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+    <h3 class="display-4">All Books</h3>
+    <div class="row">
+        @foreach(var book in Model)
+        {
+            <div class="col-md-4">
+                <partial name="_bookThumbnail" model="@book" />                
+            </div>
+        }        
+    </div>
+</div>

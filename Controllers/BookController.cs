@@ -1,28 +1,178 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Humanizer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
 using WebApplication7.Models;
 using WebApplication7.Repository;
+using WebApplication7.Services;
 
 namespace WebApplication7.Controllers
 {
-    public class BookController : Controller
+    [Route("[controller]/[action]")]
+    public class BookController : BaseController
     {
-        private readonly BookRepository _bookRepository = null;
-        public BookController()
+        public BookController(IBookRepository bookRepository, ILanguageRepository languageRepository,
+            IWebHostEnvironment webHostEnvironment, IUserService userService,
+            IAccountRepository accountRepository)
+            : base(bookRepository, languageRepository, webHostEnvironment, userService, accountRepository)
         {
-            _bookRepository = new BookRepository();
+
         }
-        public List<BookModel> GetAllBooks()
+        [Route("~/all-books")]
+        public async Task<ViewResult> GetAllBooks()
         {
-            return _bookRepository.GetAllBooks();
+            var data = await _bookRepository.GetAll();
+            return View(data);
         }
-        public BookModel GetBooks(int id)
+        public async Task<IActionResult> GetAllLanguage()
         {
-            return _bookRepository.GetBookById(id);
+            var languages = await _bookRepository.ListAllLanguage("");
+            return View(languages);
         }
-        public List<BookModel> SearchBooks(string bookName , string authorName)
+        public async Task<IActionResult> SearchLanguage(string searchText)
+        {
+            var languages = await _bookRepository.ListAllLanguage(searchText);
+            if (!string.IsNullOrEmpty(searchText))
+            {
+                languages = languages.Where(x => x.Name.ToLower().Contains(searchText.ToLower())).ToList();
+
+            }   
+                return PartialView("_languageThumbnail", languages);
+        }
+
+        [Route("~/book-deatalis/{id}" , Name ="BookDetailsRoute")]
+        public async Task<ViewResult> GetBook(int id)
+        {
+            var data = await _bookRepository.GetBookById(id);
+            return View(data);
+        }
+        public List<BookModel> Search(string bookName , string authorName)
         {
             return _bookRepository.SearchBook(bookName, authorName);
                
         }
+        [HttpGet]
+        [Authorize]
+        public async Task<ViewResult> AddNewBook(bool isSuccess = false , int bookId=0)
+        {     
+            ViewBag.IsSuccess = isSuccess;
+            ViewBag.BookId = bookId;
+
+            return View();
+        }        
+        [HttpPost]
+        public async Task<IActionResult> AddNewBook(BookModel bookModel)
+        {
+            if(ModelState.IsValid) 
+            {
+                if(bookModel.CoverPhoto != null)
+                {
+                    string folder = "books/cover/";
+
+                    bookModel.CoverImageUrl = await UploadImage(folder , bookModel.CoverPhoto);
+                }
+
+                if (bookModel.GalleryFiles != null)
+                {
+                    string folder = "books/gallery/";
+
+                    bookModel.Gallery = new List<GalleryModel>();
+
+                    foreach(var file in bookModel.GalleryFiles)
+                    {
+                        var gallery = new GalleryModel()
+                        {
+                            Name = file.FileName,
+                            URL= await UploadImage(folder, file)
+                        };
+                        bookModel.Gallery.Add(gallery);
+                    }
+                    
+                }
+
+                if (bookModel.BookPdf != null)
+                {
+                    string folder = "books/pdf/";
+
+                    bookModel.BookPdfUrl = await UploadImage(folder, bookModel.BookPdf);
+                }
+
+                int id = await _bookRepository.AddNewBook(bookModel);
+                if (id > 0)
+                {
+                    return RedirectToAction(nameof(AddNewBook), new { isSuccess = true, bookId = id });
+                }
+            }    
+            return View();
+        }
+        // GET Method
+        [HttpGet]
+        public async Task<ViewResult> AddNewLanguage(bool isSuccess = false, int bookId = 0)
+        {
+            ViewBag.IsSuccess = isSuccess;
+            ViewBag.BookId = bookId;
+            return View();
+        }
+        // POST Method
+        [HttpPost]
+        public async Task<IActionResult> AddNewLanguage(LanguageModel languageModel)
+        {
+            if (ModelState.IsValid)
+            {   
+                int id = await _bookRepository.AddNewLanguage(languageModel);
+                if (id > 0)
+                {
+                    return RedirectToAction(nameof(AddNewLanguage), new { isSuccess = true, bookId = id });
+                }
+            }
+            return View();
+        }
+        [HttpGet]
+        public async Task<ViewResult> EditLanguage(int id)
+        {
+            var language = await _bookRepository .GetLanguageById(id);
+            return View(language);
+        }
+        [HttpPost]
+        public async Task<IActionResult> EditLanguage(LanguageModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                await _bookRepository.UpdateLanguage(model);
+                TempData["success"] = "Language updated successfully!";                
+            }
+            return View(model);
+        }
+        public async Task<IActionResult> DeleteLanguage(int id)
+        {
+            var isDeleted = await _bookRepository.DeleteLanguage(id);
+
+            if (isDeleted)
+            {
+                TempData["success"] = "Language deleted successfully!";
+            }
+            else
+            {
+                TempData["error"] = "Language not found!";
+            }
+
+            return RedirectToAction("GetAllLanguage");
+        }
+        private async Task<string> UploadImage(string folderPath , IFormFile file)
+        {
+            
+            folderPath += Guid.NewGuid().ToString() + "_" + file.FileName;
+
+
+            string serverFolder = Path.Combine(_webHostEnvironment.WebRootPath, folderPath);
+
+            await file.CopyToAsync(new FileStream(serverFolder, FileMode.Create));
+
+            return "/" + folderPath;
+        }        
     }
 }

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<LanguageModel>
+
+@{
+    ViewData["Title"] = "All Languages";
+}
+    <input type="text" class="form-control mb-3" id="languageSearchBox" placeholder="Search Language..." />
+    
+    <div id="languageList">
+        @await Html.PartialAsync("_languageThumbnail", Model)
+    </div>
+
+@section Scripts{
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+        $(document).ready(function () {
+                  $("#languageSearchBox").on("keyup", function () {
+                      var searchText = $(this).val();
+
+                      $.ajax({
+                          url: '/Book/SearchLanguage',
+                          type: 'GET',
+                          data: { searchText: searchText },
+                          success: function (result) {
+                              $('#languageList').html(result);
+                          }
+                      });
+                  });
+              });
+</script>
+}

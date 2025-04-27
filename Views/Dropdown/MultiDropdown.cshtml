@@ -1,0 +1,112 @@
+﻿@model MultiDropdownModel
+@{
+    ViewBag.Title = "Multi Dropdown";
+    var options = Model.AllOptions;
+}
+
+<h2>Six Dropdown Selection</h2>
+
+<form method="post" asp-controller="Dropdown" asp-action="MultiDropdown">
+    <div id="dropdown-container">
+        @for (int i = 1; i <= 6; i++)
+        {
+            var selectedValue = Model.GetType().GetProperty($"SelectedOption{i}")?.GetValue(Model)?.ToString();
+            <div class="form-group mb-3">
+                <label>Option @i</label>
+                <select class="form-control dropdown-select" name="SelectedOption@i" data-index="@i">                   
+                    @foreach (var option in options)
+                        {
+                            var selectedAttr = selectedValue == option ? "selected=\"selected\"" : "";
+                            @:<option value="@option" @Html.Raw(selectedAttr)>@option</option>
+                        }
+                </select>
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@if (ViewBag.Selected != null)
+{
+    <hr />
+    <h4>Selected:</h4>
+    <ul>
+        @foreach (var item in (List<string>)ViewBag.Selected)
+        {
+            <li>@item</li>
+        }
+    </ul>
+}
+
+@section Scripts {
+    <script>
+               document.addEventListener("DOMContentLoaded", function () {
+            const selects = document.querySelectorAll(".dropdown-select");
+
+            // Store original options of each select (excluding the placeholder)
+            const originalOptions = Array.from(selects).map(select => {
+                return Array.from(select.options).map(opt => ({
+                    value: opt.value,
+                    text: opt.text
+                }));
+            });
+
+            function getSelectedValues(uptoIndex) {
+                return Array.from(selects)
+                    .slice(0, uptoIndex + 1)
+                    .map(s => s.value)
+                    .filter(v => v !== "");
+            }
+
+            function rebuildSelectOptions(select, excludedValues, original) {
+                // Save current value if still valid
+                const currentValue = select.value;
+                select.innerHTML = "";
+
+                // Add default placeholder
+                const defaultOption = document.createElement("option");
+                defaultOption.text = "Select Subject";
+                defaultOption.value = "";
+                select.appendChild(defaultOption);
+
+                original.forEach(opt => {
+                    const option = document.createElement("option");
+                    option.value = opt.value;
+                    option.text = opt.text;
+
+                    // Disable if already selected in earlier dropdowns
+                    if (excludedValues.includes(opt.value)) {
+                        option.disabled = true;
+                    }
+
+                    select.appendChild(option);
+                });
+
+                // Try to restore current value if still available
+                if (!excludedValues.includes(currentValue)) {
+                    select.value = currentValue;
+                }
+            }
+
+            selects.forEach((select, index) => {
+                select.addEventListener("change", function () {
+                    const selectedSoFar = getSelectedValues(index);
+
+                    // Rebuild all dropdowns after this one
+                    for (let i = index + 1; i < selects.length; i++) {
+                        rebuildSelectOptions(selects[i], selectedSoFar, originalOptions[i]);
+                        selects[i].value = "";
+                    }
+
+                    // Rebuild current select to reflect current selections
+                    rebuildSelectOptions(select, selectedSoFar.slice(0, index), originalOptions[index]);
+                });
+            });
+
+            // Initial setup
+            for (let i = 0; i < selects.length; i++) {
+                rebuildSelectOptions(selects[i], [], originalOptions[i]);
+            }
+        });
+    </script>
+}

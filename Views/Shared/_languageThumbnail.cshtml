@@ -1,0 +1,20 @@
+﻿@model IEnumerable<LanguageModel>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Language Name</th>
+        <th>Description</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var language in Model)
+    {
+        <tr>
+            <td>@language.Name</td>
+            <td>@language.Description</td>
+            <td>
+                <a asp-action="EditLanguage" asp-route-id="@language.LanguageId" class="btn btn-sm btn-warning">Edit</a>
+                <a asp-action="DeleteLanguage" asp-route-id="@language.LanguageId" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
