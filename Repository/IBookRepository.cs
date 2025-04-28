@@ -16,5 +16,6 @@ namespace WebApplication7.Repository
         Task<List<LanguageModel>> ListAllLanguage(string searchText);
         Task UpdateLanguage(LanguageModel model);
         Task<bool> DeleteLanguage(int id);
+        int GetLanguageCount();
     }
 }

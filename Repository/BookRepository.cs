@@ -168,6 +168,10 @@ namespace WebApplication7.Repository
         public string GetAppName()
         {
             return "Book Store Application";
-        }        
+        }
+        public int GetLanguageCount()
+        {
+            return _context.Language.Count();
+        }
     }
 }

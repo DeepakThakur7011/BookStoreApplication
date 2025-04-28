@@ -122,15 +122,26 @@ namespace WebApplication7.Controllers
         public async Task<IActionResult> AddNewLanguage(LanguageModel languageModel)
         {
             if (ModelState.IsValid)
-            {   
+            {
+                // Call the repository to add the language to the database
                 int id = await _bookRepository.AddNewLanguage(languageModel);
+
                 if (id > 0)
                 {
-                    return RedirectToAction(nameof(AddNewLanguage), new { isSuccess = true, bookId = id });
+                    // Return a JSON response indicating success
+                    return Json(new { success = true, message = "Language added successfully!" });
+                }
+                else
+                {
+                    // Return a failure message if the language wasn't added
+                    return Json(new { success = false, message = "Failed to add language." });
                 }
             }
-            return View();
+
+            // Return a failure response if the model is invalid
+            return Json(new { success = false, message = "Invalid form data." });
         }
+
         [HttpGet]
         public async Task<ViewResult> EditLanguage(int id)
         {
@@ -173,6 +184,12 @@ namespace WebApplication7.Controllers
             await file.CopyToAsync(new FileStream(serverFolder, FileMode.Create));
 
             return "/" + folderPath;
-        }        
+        }
+        [HttpGet]
+        public IActionResult GetLanguageCount()
+        {
+            int count = _bookRepository.GetLanguageCount();
+            return PartialView("~/Views/Shared/_NotificationBell.cshtml", count);
+        }
     }
 }
