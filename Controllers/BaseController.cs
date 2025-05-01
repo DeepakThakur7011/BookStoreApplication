@@ -27,5 +27,10 @@ namespace WebApplication7.Controllers
             _userService = userService;
             _accountRepository = accountRepository;
         }
+        //public override void OnActionExecuting(ActionExecutingContext context)
+        //{
+        //    ViewBag.NotificationCount = _bookRepository.GetLanguageCount(); // Set notification count
+        //    base.OnActionExecuting(context);
+        //}
     }
 }

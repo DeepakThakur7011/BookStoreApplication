@@ -1,25 +1,21 @@
-﻿<div class="notification-bell" style="position: relative; cursor: pointer;" onclick="toggleNotifications()">
-    <span style="font-size: 24px;">🔔</span>
-    <span class="notification-count" style="position: absolute; top: 0; right: 0; background: red; color: white; border-radius: 50%; padding: 2px 6px; font-size: 12px;">
-        @Model
-    </span>
+﻿@model int
 
-    <!-- Dropdown Container -->
-    <div id="notification-list-container" style="display: none; position: absolute; top: 40px; right: 0; background: white; border: 1px solid #ccc; width: 250px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); z-index: 1000;">
-        <div id="notification-list">
-            <!-- Notifications will load here by AJAX -->
-            <ul style="list-style: none; margin: 0; padding: 10px;">
-                @foreach (var lang in Model)
-                {
-                    <li onclick="markAsRead(this)" style="padding: 5px 0; border-bottom: 1px solid #eee; cursor: pointer;">
-                        New Language Added: @lang.LanguageName
-                    </li>
-                }
-                @if (!Model.Any())
-                {
-                    <li style="padding: 5px 0; color: gray;">No new notifications</li>
-                }
-            </ul>
-        </div>
-    </div>
+<div class="dropdown" id="notification-container" style="position: relative;">
+    <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <i class="fa fa-bell" style="font-size: 24px;"></i>
+        <span id="notification-count"
+              class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+            @Model
+        </span>
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end">
+        @if (Model == 0)
+        {
+            <li><span class="dropdown-item">No new languages</span></li>
+        }
+        else
+        {
+            <li><span class="dropdown-item">@Model languages added</span></li>
+        }
+    </ul>
 </div>

@@ -33,6 +33,23 @@
             header nav ul .right-icons li {
                 margin-left: 20px; /* Space between right icons */
             }
+
+    .notification-bell {
+        position: relative;
+        display: inline-block;
+        margin: 10px;
+    }
+
+    .notification-badge {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        background-color: red;
+        color: white;
+        border-radius: 50%;
+        padding: 2px 6px;
+        font-size: 12px;
+    }
 </style>
 
 <header>
@@ -58,11 +75,8 @@
                     <a class="nav-link text-dark" asp-controller="book" asp-action="getalllanguage" title="All Language"><i class="fas fa-language"></i></a>
                 </li>
                 <li class="nav-item" style="position: relative;">
-                    <a class="nav-link text-dark" asp-controller="book" asp-action="getalllanguage" title="Notification" style="position: relative; display: inline-block;">
-                        <i class="fas fa-bell" style="font-size: 18px;"></i>
-                        <span style="position: absolute;top: 10px;right: 10px; background: red; color: white;border-radius: 50%;padding: 0px 6px;font-size: 15px;transform: translate(50%, -50%);">
-                            5
-                        </span>
+                    <a id="notification-container">
+                        @await Html.PartialAsync("_NotificationBell",(int) ViewBag.NotificationCount)
                     </a>
                 </li>
 

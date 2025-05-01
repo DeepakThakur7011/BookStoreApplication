@@ -34,6 +34,36 @@
     <!-- Include Bootstrap JS (includes Popper.js) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     
+    <script>
+        <script>
+         // Core notification refresh logic (runs on all pages)
+         function refreshNotificationCount() {
+             fetch('/Book/GetLanguageCount')
+                 .then(response => response.json()) // Expect JSON response
+                 .then(count => {
+                     const container = document.getElementById('notification-container');
+                     let badge = container.querySelector('.notification-badge');
+                     if (count > 0) {
+                         if (!badge) {
+                             badge = document.createElement('span');
+                             badge.className = 'notification-badge';
+                             container.appendChild(badge);
+                         }
+                         badge.textContent = count;
+                     } else if (badge) {
+                         badge.remove();
+                     }
+                 })
+                 .catch(error => console.error('Error refreshing notification:', error));
+         }
+
+         // Refresh on page load
+         window.onload = refreshNotificationCount;
+
+         // Refresh every 10 seconds
+         setInterval(refreshNotificationCount, 1000);
+    </script>
+
     @RenderSection("scripts" , required:false)
 
 </body>

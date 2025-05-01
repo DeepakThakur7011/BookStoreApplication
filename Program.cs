@@ -5,6 +5,7 @@ using Microsoft.Extensions.Options;
 using System.Collections.Generic;
 using System.Net.NetworkInformation;
 using WebApplication7.Data;
+using WebApplication7.Filters;
 using WebApplication7.Helper;
 using WebApplication7.Models;
 using WebApplication7.Repository;
@@ -36,6 +37,10 @@ builder.Services.ConfigureApplicationCookie(config =>
     config.LoginPath = "/login";
 });
 // Add the NotificationCountFilter globally
+builder.Services.AddControllersWithViews(options =>
+{
+    options.Filters.Add<NotificationCountFilter>();
+});
 var app = builder.Build();
 app.Services.GetRequiredService<IWebHostEnvironment>();
 app.UseStaticFiles();
