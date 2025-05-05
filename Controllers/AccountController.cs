@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Threading.Tasks;
-using WebApplication7.Models;
-using WebApplication7.Repository;
-using WebApplication7.Services;
+using BookStoreApplication.Models;
+using BookStoreApplication.Repository;
+using BookStoreApplication.Services;
 
-namespace WebApplication7.Controllers
+namespace BookStoreApplication.Controllers
 {
     public class AccountController : BaseController
     {

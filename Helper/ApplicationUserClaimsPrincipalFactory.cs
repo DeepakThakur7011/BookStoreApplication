@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using System.Security.Claims;
-using WebApplication7.Models;
+using BookStoreApplication.Models;
 
-namespace WebApplication7.Helper
+namespace BookStoreApplication.Helper
 {
     public class ApplicationUserClaimsPrincipalFactory: UserClaimsPrincipalFactory<ApplicationUser , IdentityRole>
     {

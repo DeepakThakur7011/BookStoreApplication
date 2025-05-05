@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication7.Models;
+using BookStoreApplication.Models;
 
-namespace WebApplication7.Repository
+namespace BookStoreApplication.Repository
 {
     public interface IBookRepository
     {

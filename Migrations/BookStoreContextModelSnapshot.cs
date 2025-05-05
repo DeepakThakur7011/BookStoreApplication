@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication7.Data;
+using BookStoreApplication.Data;
 
 #nullable disable
 
-namespace WebApplication7.Migrations
+namespace BookStoreApplication.Migrations
 {
     [DbContext(typeof(BookStoreContext))]
     partial class BookStoreContextModelSnapshot : ModelSnapshot

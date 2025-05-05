@@ -6,11 +6,12 @@ using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json.Linq;
-using WebApplication7.Models;
-using WebApplication7.Repository;
-using WebApplication7.Services;
+using BookStoreApplication.Models;
+using BookStoreApplication.Repository;
+using BookStoreApplication.Services;
+using BookStoreApplication.Controllers;
 
-namespace WebApplication7.Controllers
+namespace BookStoreApplication.Controllers
 {
     [Route("[controller]/[action]")]
     public class BookController : BaseController

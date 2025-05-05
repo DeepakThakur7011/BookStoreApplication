@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Filters;
-using WebApplication7.Repository;
-using WebApplication7.Services;
+using BookStoreApplication.Repository;
+using BookStoreApplication.Services;
 
-namespace WebApplication7.Controllers
+namespace BookStoreApplication.Controllers
 {
     public class BaseController : Controller
     {

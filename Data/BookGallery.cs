@@ -1,4 +1,4 @@
-﻿namespace WebApplication7.Data
+﻿namespace BookStoreApplication.Data
 {
     public class BookGallery
     {

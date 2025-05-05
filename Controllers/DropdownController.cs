@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
-using WebApplication7.Controllers;
-using WebApplication7.Models;
-using WebApplication7.Repository;
-using WebApplication7.Services;
+using BookStoreApplication.Controllers;
+using BookStoreApplication.Models;
+using BookStoreApplication.Repository;
+using BookStoreApplication.Services;
 
 public class DropdownController : BaseController
 {

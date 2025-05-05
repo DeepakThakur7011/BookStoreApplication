@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Razor.TagHelpers;
 
-namespace WebApplication7.Helper
+namespace BookStoreApplication.Helper
 {
     [HtmlTargetElement("big")]
     [HtmlTargetElement(Attributes = "big")]

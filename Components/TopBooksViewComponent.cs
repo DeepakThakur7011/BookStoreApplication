@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication7.Repository;
+using BookStoreApplication.Repository;
 
-namespace WebApplication7.Components
+namespace BookStoreApplication.Components
 {
     public class TopBooksViewComponent : ViewComponent
     {

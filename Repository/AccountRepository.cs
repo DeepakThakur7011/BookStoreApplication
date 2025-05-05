@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
-using WebApplication7.Models;
-using WebApplication7.Services;
+using BookStoreApplication.Models;
+using BookStoreApplication.Services;
 
-namespace WebApplication7.Repository
+namespace BookStoreApplication.Repository
 {
     public class AccountRepository : IAccountRepository
     {

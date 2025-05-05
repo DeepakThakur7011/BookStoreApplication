@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication7.Data;
+using BookStoreApplication.Data;
 
 #nullable disable
 
-namespace WebApplication7.Migrations
+namespace BookStoreApplication.Migrations
 {
     [DbContext(typeof(BookStoreContext))]
     [Migration("20250323113406_bookforiengkeyaddedabc")]

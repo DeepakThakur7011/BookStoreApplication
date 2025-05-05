@@ -341,24 +341,24 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication7.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStoreApplication.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookStoreApplication.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication7.props",
-      "PackagePath": "build\\WebApplication7.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookStoreApplication.props",
+      "PackagePath": "build\\BookStoreApplication.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication7.props",
-      "PackagePath": "buildMultiTargeting\\WebApplication7.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreApplication.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreApplication.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication7.props",
-      "PackagePath": "buildTransitive\\WebApplication7.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookStoreApplication.props",
+      "PackagePath": "buildTransitive\\BookStoreApplication.props"
     }
   ],
   "ElementsToRemove": []

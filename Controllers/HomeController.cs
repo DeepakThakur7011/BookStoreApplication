@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication7.Models;
-using WebApplication7.Repository;
-using WebApplication7.Services;
+using BookStoreApplication.Models;
+using BookStoreApplication.Repository;
+using BookStoreApplication.Services;
 
-namespace WebApplication7.Controllers
+namespace BookStoreApplication.Controllers
 {
     [Route("[controller]/[action]")]
     public class HomeController : BaseController

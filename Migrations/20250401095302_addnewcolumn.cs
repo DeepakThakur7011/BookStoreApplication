@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace WebApplication7.Migrations
+namespace BookStoreApplication.Migrations
 {
     /// <inheritdoc />
     public partial class addnewcolumn : Migration

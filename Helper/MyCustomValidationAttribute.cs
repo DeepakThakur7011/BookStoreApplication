@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication7.Helper
+namespace BookStoreApplication.Helper
 {
     public class MyCustomValidationAttribute:ValidationAttribute
     {

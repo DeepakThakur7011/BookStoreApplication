@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WebApplication7.Models;
+using BookStoreApplication.Models;
 
-namespace WebApplication7.Data
+namespace BookStoreApplication.Data
 {
     public class BookStoreContext:IdentityDbContext<ApplicationUser>
     {

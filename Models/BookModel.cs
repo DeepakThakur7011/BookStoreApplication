@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using WebApplication7.Helper;
+using BookStoreApplication.Helper;
 
-namespace WebApplication7.Models
+namespace BookStoreApplication.Models
 {
     public class BookModel
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication7.Data;
-using WebApplication7.Models;
+using BookStoreApplication.Data;
+using BookStoreApplication.Models;
 
-namespace WebApplication7.Repository
+namespace BookStoreApplication.Repository
 {
     public class LanguageRepository : ILanguageRepository
     {

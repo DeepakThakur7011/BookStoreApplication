@@ -1,6 +1,6 @@
 ﻿using System.Security.Claims;
 
-namespace WebApplication7.Services
+namespace BookStoreApplication.Services
 {
     public class UserService : IUserService
     {

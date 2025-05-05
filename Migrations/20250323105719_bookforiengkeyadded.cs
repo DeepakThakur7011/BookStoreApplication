@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace WebApplication7.Migrations
+namespace BookStoreApplication.Migrations
 {
     /// <inheritdoc />
     public partial class bookforiengkeyadded : Migration

@@ -1,4 +1,4 @@
-﻿namespace WebApplication7.Services
+﻿namespace BookStoreApplication.Services
 {
     public interface IUserService
     {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
-using WebApplication7.Repository;
+using BookStoreApplication.Repository;
 
-namespace WebApplication7.Filters
+namespace BookStoreApplication.Filters
 {
     public class NotificationCountFilter:IActionFilter
     {
