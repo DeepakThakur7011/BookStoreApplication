@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7JTP97yfAbEcqfPsTrUHJ7rDZKWTvcLG5/o6bKmJ8aE=",
+  "Hash": "6MBrpUyd0xdstLqZMCrirlt63/0rTFRqPSTfO1u43LY=",
   "Source": "BookStoreApplication",
   "BasePath": "_content/BookStoreApplication",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookStoreApplication\\wwwroot",
       "Source": "BookStoreApplication",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/cover/ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/134840ae-faff-4b75-a1e8-3f047cc99a9b_R#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/2765e66e-cd40-44c1-b787-96cdc7433188_R#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/28675f1a-42e1-4261-811a-a277c098c3a1_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/8685d1ef-e25a-4127-9cd7-160b2626938e_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/97218fdf-8530-483c-b561-e9e18ac210f5_R#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1)#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/gallery/fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "books/pdf/f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025#[.{fingerprint}]?.pdf",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\css\\Site.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\css\\Site.css",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "css/Site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Site.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\a.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\a.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "images/book/a#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book\\a.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\b.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\b.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "images/book/b#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book\\b.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\c.jpeg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\c.jpeg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "images/book/c#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\images\\book\\c.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\no-img.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\no-img.jpg",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "images/no-img#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\images\\no-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "jquery.unobtrusive-ajax.js_3.2.6/cdnjs/jquery.unobtrusive-ajax#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "jquery.unobtrusive-ajax.js_3.2.6/unpkg/jquery.unobtrusive-ajax#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "jquery.validate.js_1.19.5/unpkg/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "jquery.validate.unobtrusive.js_4.0.0/unpkg/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "jquery.validate.unobtrusive.min.js_3.2.11/cdnjs/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "lib/jquery/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
       "SourceId": "BookStoreApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\",
       "BasePath": "_content/BookStoreApplication",
       "RelativePath": "lib/jquery/jquery-3.7.1.slim#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1805,7 +1805,7 @@
   "Endpoints": [
     {
       "Route": "books/cover/03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1842,7 +1842,7 @@
     },
     {
       "Route": "books/cover/03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\03f319d1-ca0f-4a7d-a5c3-1a057d700128_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1887,7 +1887,7 @@
     },
     {
       "Route": "books/cover/04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1924,7 +1924,7 @@
     },
     {
       "Route": "books/cover/04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\04498596-bbbf-4e44-bd75-21a8dc94dd4f_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1969,7 +1969,7 @@
     },
     {
       "Route": "books/cover/103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2006,7 +2006,7 @@
     },
     {
       "Route": "books/cover/103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\103bb07d-febb-482b-be06-4f9d74bc4c37_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2051,7 +2051,7 @@
     },
     {
       "Route": "books/cover/16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2088,7 +2088,7 @@
     },
     {
       "Route": "books/cover/16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\16fb9396-6b70-40ab-83f8-d449a1ac77b2_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2133,7 +2133,7 @@
     },
     {
       "Route": "books/cover/2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2170,7 +2170,7 @@
     },
     {
       "Route": "books/cover/2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\2e220245-a502-4a78-95c9-61b2a857243b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2215,7 +2215,7 @@
     },
     {
       "Route": "books/cover/36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2260,7 +2260,7 @@
     },
     {
       "Route": "books/cover/36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\36756ab1-562d-4e9a-af19-79c6ec6720fb_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2297,7 +2297,7 @@
     },
     {
       "Route": "books/cover/37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2334,7 +2334,7 @@
     },
     {
       "Route": "books/cover/37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\37e21b17-2c4e-420e-aeb4-aadeccfcf5e7_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2379,7 +2379,7 @@
     },
     {
       "Route": "books/cover/4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2416,7 +2416,7 @@
     },
     {
       "Route": "books/cover/4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4389a310-e0be-410f-a37c-903ae8f0987b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2461,7 +2461,7 @@
     },
     {
       "Route": "books/cover/4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2498,7 +2498,7 @@
     },
     {
       "Route": "books/cover/4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4dda3782-45f8-49ab-9279-4623ef05370a_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2543,7 +2543,7 @@
     },
     {
       "Route": "books/cover/4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2580,7 +2580,7 @@
     },
     {
       "Route": "books/cover/4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\4efb2d11-eb07-49c6-8ad8-c081f7de3351_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2625,7 +2625,7 @@
     },
     {
       "Route": "books/cover/5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2662,7 +2662,7 @@
     },
     {
       "Route": "books/cover/5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5c02ccb1-b1a7-41e1-8112-025343c90876_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2707,7 +2707,7 @@
     },
     {
       "Route": "books/cover/5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2744,7 +2744,7 @@
     },
     {
       "Route": "books/cover/5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\5f4b5af4-e7d9-41c3-be18-d75fc7e5db3f_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2789,7 +2789,7 @@
     },
     {
       "Route": "books/cover/68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2826,7 +2826,7 @@
     },
     {
       "Route": "books/cover/68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\68ae1099-37d5-48e6-a22a-2294e6b08bad_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2871,7 +2871,7 @@
     },
     {
       "Route": "books/cover/70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2908,7 +2908,7 @@
     },
     {
       "Route": "books/cover/70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\70d6a20e-14f5-44b6-9348-4ab8cf1b4327_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2953,7 +2953,7 @@
     },
     {
       "Route": "books/cover/848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2990,7 +2990,7 @@
     },
     {
       "Route": "books/cover/848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\848bda03-1dee-4823-b472-4024510c7272_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3035,7 +3035,7 @@
     },
     {
       "Route": "books/cover/875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3072,7 +3072,7 @@
     },
     {
       "Route": "books/cover/875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\875df242-e1cc-4026-8f72-b2056085331a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3117,7 +3117,7 @@
     },
     {
       "Route": "books/cover/967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3154,7 +3154,7 @@
     },
     {
       "Route": "books/cover/967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\967da987-60c9-42bc-bb59-37a29635de3b_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3199,7 +3199,7 @@
     },
     {
       "Route": "books/cover/bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3236,7 +3236,7 @@
     },
     {
       "Route": "books/cover/bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bb054710-68ec-4eeb-a9b2-23befdecad8a_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3281,7 +3281,7 @@
     },
     {
       "Route": "books/cover/bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3318,7 +3318,7 @@
     },
     {
       "Route": "books/cover/bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\bf82e412-b6d5-4314-b37e-74f6427cc59e_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3363,7 +3363,7 @@
     },
     {
       "Route": "books/cover/c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3400,7 +3400,7 @@
     },
     {
       "Route": "books/cover/c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\c437412b-1e25-42f8-a736-ad7c37612f47_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3445,7 +3445,7 @@
     },
     {
       "Route": "books/cover/d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3482,7 +3482,7 @@
     },
     {
       "Route": "books/cover/d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\d576ed86-f13f-47d9-b818-0473cb37917c_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3527,7 +3527,7 @@
     },
     {
       "Route": "books/cover/e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3564,7 +3564,7 @@
     },
     {
       "Route": "books/cover/e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e7c6d55c-1dfd-4277-a11a-ab32d8f301b4_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3609,7 +3609,7 @@
     },
     {
       "Route": "books/cover/e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3646,7 +3646,7 @@
     },
     {
       "Route": "books/cover/e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\e825f5b4-a808-4956-a579-11aa7284444a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3691,7 +3691,7 @@
     },
     {
       "Route": "books/cover/ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3728,7 +3728,7 @@
     },
     {
       "Route": "books/cover/ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ef8da5dd-8c65-425c-9cdd-681dcd441582_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3773,7 +3773,7 @@
     },
     {
       "Route": "books/cover/f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3818,7 +3818,7 @@
     },
     {
       "Route": "books/cover/f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f4f172e1-b82e-47cc-823a-88e3c7c470c8_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3855,7 +3855,7 @@
     },
     {
       "Route": "books/cover/f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3892,7 +3892,7 @@
     },
     {
       "Route": "books/cover/f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f76a571e-a702-43c4-9618-c888f01dd7e5_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3937,7 +3937,7 @@
     },
     {
       "Route": "books/cover/f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3982,7 +3982,7 @@
     },
     {
       "Route": "books/cover/f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\f8377e5f-5f75-4921-bff8-58ec5a4d4735_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4019,7 +4019,7 @@
     },
     {
       "Route": "books/cover/fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4064,7 +4064,7 @@
     },
     {
       "Route": "books/cover/fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\fdbb3223-ad11-4bdd-a2ab-92e3f11d5e95_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4101,7 +4101,7 @@
     },
     {
       "Route": "books/cover/ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4138,7 +4138,7 @@
     },
     {
       "Route": "books/cover/ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\cover\\ff5233c8-f53e-49d6-9f93-5fb86922d98a_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4183,7 +4183,7 @@
     },
     {
       "Route": "books/gallery/06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4220,7 +4220,7 @@
     },
     {
       "Route": "books/gallery/06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\06ca1441-1c2b-4587-81cd-47082d93e7d4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4265,7 +4265,7 @@
     },
     {
       "Route": "books/gallery/12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4302,7 +4302,7 @@
     },
     {
       "Route": "books/gallery/12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\12c6c173-5081-4ed6-be7f-ea2ddea2432c_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4347,7 +4347,7 @@
     },
     {
       "Route": "books/gallery/134840ae-faff-4b75-a1e8-3f047cc99a9b_R.5wslte8bwo.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4392,7 +4392,7 @@
     },
     {
       "Route": "books/gallery/134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\134840ae-faff-4b75-a1e8-3f047cc99a9b_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4429,7 +4429,7 @@
     },
     {
       "Route": "books/gallery/1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4466,7 +4466,7 @@
     },
     {
       "Route": "books/gallery/1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\1ef9f8d0-89f2-4e69-8144-cea91e2331e8_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4511,7 +4511,7 @@
     },
     {
       "Route": "books/gallery/2765e66e-cd40-44c1-b787-96cdc7433188_R.5wslte8bwo.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4556,7 +4556,7 @@
     },
     {
       "Route": "books/gallery/2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2765e66e-cd40-44c1-b787-96cdc7433188_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4593,7 +4593,7 @@
     },
     {
       "Route": "books/gallery/28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4630,7 +4630,7 @@
     },
     {
       "Route": "books/gallery/28675f1a-42e1-4261-811a-a277c098c3a1_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\28675f1a-42e1-4261-811a-a277c098c3a1_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4675,7 +4675,7 @@
     },
     {
       "Route": "books/gallery/2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4720,7 +4720,7 @@
     },
     {
       "Route": "books/gallery/2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\2b818e08-5c0a-4feb-b263-c657f6397193_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4757,7 +4757,7 @@
     },
     {
       "Route": "books/gallery/3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4794,7 +4794,7 @@
     },
     {
       "Route": "books/gallery/3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\3b52195b-fdd1-4769-96b0-480db8aed8e4_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4839,7 +4839,7 @@
     },
     {
       "Route": "books/gallery/44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4876,7 +4876,7 @@
     },
     {
       "Route": "books/gallery/44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\44f5e746-4cf5-4878-987f-06d40e03fa4c_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4921,7 +4921,7 @@
     },
     {
       "Route": "books/gallery/4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4958,7 +4958,7 @@
     },
     {
       "Route": "books/gallery/4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\4f3508d6-ea12-4b69-bc24-e4505b43f2d4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5003,7 +5003,7 @@
     },
     {
       "Route": "books/gallery/66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5048,7 +5048,7 @@
     },
     {
       "Route": "books/gallery/66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\66cf7cf9-6176-4c51-b260-11f3d59b0838_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5085,7 +5085,7 @@
     },
     {
       "Route": "books/gallery/8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5122,7 +5122,7 @@
     },
     {
       "Route": "books/gallery/8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\8685d1ef-e25a-4127-9cd7-160b2626938e_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5167,7 +5167,7 @@
     },
     {
       "Route": "books/gallery/97218fdf-8530-483c-b561-e9e18ac210f5_R.5wslte8bwo.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5212,7 +5212,7 @@
     },
     {
       "Route": "books/gallery/97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\97218fdf-8530-483c-b561-e9e18ac210f5_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5249,7 +5249,7 @@
     },
     {
       "Route": "books/gallery/992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5286,7 +5286,7 @@
     },
     {
       "Route": "books/gallery/992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.qn4fdbshfa.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\992cb1c0-d09c-4678-acfc-a8c81769edd4_sea-dawn-nature-1188083.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5331,7 +5331,7 @@
     },
     {
       "Route": "books/gallery/9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.5wslte8bwo.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5376,7 +5376,7 @@
     },
     {
       "Route": "books/gallery/9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\9d1e9979-ccef-4ece-bfdf-dc9805ec8554_R.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5413,7 +5413,7 @@
     },
     {
       "Route": "books/gallery/a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5450,7 +5450,7 @@
     },
     {
       "Route": "books/gallery/a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.srqabhvkgt.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\a08258bc-6fc2-49b4-be7a-437a9637052d_landscape-mountains-nature-556416.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5495,7 +5495,7 @@
     },
     {
       "Route": "books/gallery/aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5540,7 +5540,7 @@
     },
     {
       "Route": "books/gallery/aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\aa3717ed-9f78-46e1-8cbe-c9e9b8635b45_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5577,7 +5577,7 @@
     },
     {
       "Route": "books/gallery/b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5614,7 +5614,7 @@
     },
     {
       "Route": "books/gallery/b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.qn4fdbshfa.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b1405f0e-8ae0-4a16-a327-6937d296df9e_sea-dawn-nature-1188083.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5659,7 +5659,7 @@
     },
     {
       "Route": "books/gallery/b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5696,7 +5696,7 @@
     },
     {
       "Route": "books/gallery/b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b17eb37d-b983-40d5-aeca-1d6aaff228b4_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5741,7 +5741,7 @@
     },
     {
       "Route": "books/gallery/b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5786,7 +5786,7 @@
     },
     {
       "Route": "books/gallery/b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\b3376f51-2bd8-49fa-a5ab-52aa208af68a_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5823,7 +5823,7 @@
     },
     {
       "Route": "books/gallery/bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5868,7 +5868,7 @@
     },
     {
       "Route": "books/gallery/bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\bef3ea87-d68f-4ceb-b19d-0dea85b67129_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5905,7 +5905,7 @@
     },
     {
       "Route": "books/gallery/c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5942,7 +5942,7 @@
     },
     {
       "Route": "books/gallery/c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\c1ca68f6-80db-406a-aaf4-c650b912a9a1_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5987,7 +5987,7 @@
     },
     {
       "Route": "books/gallery/cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6032,7 +6032,7 @@
     },
     {
       "Route": "books/gallery/cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\cba652c8-e844-4b79-a147-222627503144_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6069,7 +6069,7 @@
     },
     {
       "Route": "books/gallery/d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6106,7 +6106,7 @@
     },
     {
       "Route": "books/gallery/d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\d16cd3ed-bbd6-411a-a927-b5010f38d9af_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6151,7 +6151,7 @@
     },
     {
       "Route": "books/gallery/edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6188,7 +6188,7 @@
     },
     {
       "Route": "books/gallery/edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).ts4sl5waye.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\edb09d37-57f0-4cab-aea9-f5ab59d74468_R (1).jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6233,7 +6233,7 @@
     },
     {
       "Route": "books/gallery/f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6270,7 +6270,7 @@
     },
     {
       "Route": "books/gallery/f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.ssk110ul61.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f167ad69-2c10-433f-b7db-c02321961b90_Learn Programming Language.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6315,7 +6315,7 @@
     },
     {
       "Route": "books/gallery/f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.cystx5d3it.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6360,7 +6360,7 @@
     },
     {
       "Route": "books/gallery/f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\f1ea74f5-7196-4bec-b66d-ab6421d37291_daylight-environment-forest-459225.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6397,7 +6397,7 @@
     },
     {
       "Route": "books/gallery/fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6434,7 +6434,7 @@
     },
     {
       "Route": "books/gallery/fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.scuihuujd2.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\gallery\\fc03cfda-5fb4-4bfa-9893-3d25f13a9409_clouds-cloudy-conifers-247478.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6479,7 +6479,7 @@
     },
     {
       "Route": "books/pdf/112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6516,7 +6516,7 @@
     },
     {
       "Route": "books/pdf/112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\112183bf-c812-4d34-b8d3-b814b8ef3a7a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6561,7 +6561,7 @@
     },
     {
       "Route": "books/pdf/114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6598,7 +6598,7 @@
     },
     {
       "Route": "books/pdf/114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\114049c2-15a2-42f9-945e-403ea0bd5726_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6643,7 +6643,7 @@
     },
     {
       "Route": "books/pdf/1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6680,7 +6680,7 @@
     },
     {
       "Route": "books/pdf/1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\1a6dffb3-3173-4824-9cfd-4b42bf72810a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6725,7 +6725,7 @@
     },
     {
       "Route": "books/pdf/2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6762,7 +6762,7 @@
     },
     {
       "Route": "books/pdf/2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\2a4f366b-2318-4179-aa72-5f4207586e2c_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6807,7 +6807,7 @@
     },
     {
       "Route": "books/pdf/3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6844,7 +6844,7 @@
     },
     {
       "Route": "books/pdf/3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\3d521dcd-83cd-4127-81d3-0b7fba2152a0_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6889,7 +6889,7 @@
     },
     {
       "Route": "books/pdf/5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6926,7 +6926,7 @@
     },
     {
       "Route": "books/pdf/5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5a3f81be-90ea-43a0-b767-b56310c6520d_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6971,7 +6971,7 @@
     },
     {
       "Route": "books/pdf/5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7008,7 +7008,7 @@
     },
     {
       "Route": "books/pdf/5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\5eab892e-04ea-4973-b884-0b306e8ae23a_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7053,7 +7053,7 @@
     },
     {
       "Route": "books/pdf/70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7090,7 +7090,7 @@
     },
     {
       "Route": "books/pdf/70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\70dda284-3e67-420d-8a48-42d03ad4ab4d_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7135,7 +7135,7 @@
     },
     {
       "Route": "books/pdf/7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7172,7 +7172,7 @@
     },
     {
       "Route": "books/pdf/7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\7b995bb0-6782-4582-b3fa-c8d80cef10f6_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7217,7 +7217,7 @@
     },
     {
       "Route": "books/pdf/9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7254,7 +7254,7 @@
     },
     {
       "Route": "books/pdf/9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9317c73d-e4c8-4ea8-a2c4-27b744bf3b54_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7299,7 +7299,7 @@
     },
     {
       "Route": "books/pdf/9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7336,7 +7336,7 @@
     },
     {
       "Route": "books/pdf/9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9bd334b6-d2be-4df5-8c78-e373f7b572dc_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7381,7 +7381,7 @@
     },
     {
       "Route": "books/pdf/9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7418,7 +7418,7 @@
     },
     {
       "Route": "books/pdf/9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\9c3ec596-64b8-454c-bb20-2d008304a192_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7463,7 +7463,7 @@
     },
     {
       "Route": "books/pdf/b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7500,7 +7500,7 @@
     },
     {
       "Route": "books/pdf/b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\b9506484-b8eb-487d-860a-11a0bf97a992_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7545,7 +7545,7 @@
     },
     {
       "Route": "books/pdf/d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7582,7 +7582,7 @@
     },
     {
       "Route": "books/pdf/d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d213d413-e772-4bca-b055-da0b82ecb5df_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7627,7 +7627,7 @@
     },
     {
       "Route": "books/pdf/d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.et71nhx48w.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7672,7 +7672,7 @@
     },
     {
       "Route": "books/pdf/d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\d33c129a-aadb-47a6-a16e-407c4add2eaf_NI_CLASSXMARKSHEET.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7709,7 +7709,7 @@
     },
     {
       "Route": "books/pdf/f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7746,7 +7746,7 @@
     },
     {
       "Route": "books/pdf/f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.yrp6bocn58.pdf",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\books\\pdf\\f880faed-fcc2-42d3-852b-eeb91fd75499_28-03-2025.pdf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7791,7 +7791,7 @@
     },
     {
       "Route": "css/Site.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\css\\Site.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\css\\Site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7828,7 +7828,7 @@
     },
     {
       "Route": "css/Site.pb7ko2jqz1.css",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\css\\Site.css",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\css\\Site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7873,7 +7873,7 @@
     },
     {
       "Route": "images/book/a.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\a.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\a.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7910,7 +7910,7 @@
     },
     {
       "Route": "images/book/a.rtrqkjwb99.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\a.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\a.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7955,7 +7955,7 @@
     },
     {
       "Route": "images/book/b.866poor8m4.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\b.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\b.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8000,7 +8000,7 @@
     },
     {
       "Route": "images/book/b.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\b.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\b.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8037,7 +8037,7 @@
     },
     {
       "Route": "images/book/c.0cesmq1zoh.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\c.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\c.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8082,7 +8082,7 @@
     },
     {
       "Route": "images/book/c.jpeg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\book\\c.jpeg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\book\\c.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8119,7 +8119,7 @@
     },
     {
       "Route": "images/no-img.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\no-img.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\no-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8156,7 +8156,7 @@
     },
     {
       "Route": "images/no-img.nrdg56lynf.jpg",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\images\\no-img.jpg",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\images\\no-img.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8201,7 +8201,7 @@
     },
     {
       "Route": "jquery.unobtrusive-ajax.js_3.2.6/cdnjs/jquery.unobtrusive-ajax.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8238,7 +8238,7 @@
     },
     {
       "Route": "jquery.unobtrusive-ajax.js_3.2.6/cdnjs/jquery.unobtrusive-ajax.vs3qwh9hx3.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\cdnjs\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8283,7 +8283,7 @@
     },
     {
       "Route": "jquery.unobtrusive-ajax.js_3.2.6/unpkg/jquery.unobtrusive-ajax.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8320,7 +8320,7 @@
     },
     {
       "Route": "jquery.unobtrusive-ajax.js_3.2.6/unpkg/jquery.unobtrusive-ajax.vs3qwh9hx3.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.unobtrusive-ajax.js_3.2.6\\unpkg\\jquery.unobtrusive-ajax.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8365,7 +8365,7 @@
     },
     {
       "Route": "jquery.validate.js_1.19.5/unpkg/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8402,7 +8402,7 @@
     },
     {
       "Route": "jquery.validate.js_1.19.5/unpkg/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.js_1.19.5\\unpkg\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8447,7 +8447,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.js_4.0.0/unpkg/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8492,7 +8492,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.js_4.0.0/unpkg/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.js_4.0.0\\unpkg\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8529,7 +8529,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js_3.2.11/cdnjs/jquery.validate.unobtrusive.min.gb7ocvbhts.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8574,7 +8574,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js_3.2.11/cdnjs/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\jquery.validate.unobtrusive.min.js_3.2.11\\cdnjs\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8611,7 +8611,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8656,7 +8656,7 @@
     },
     {
       "Route": "lib/jquery/jquery.min.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8693,7 +8693,7 @@
     },
     {
       "Route": "lib/jquery/jquery-3.7.1.slim.2z0ns9nrw6.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8738,7 +8738,7 @@
     },
     {
       "Route": "lib/jquery/jquery-3.7.1.slim.js",
-      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
+      "AssetFile": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\wwwroot\\lib\\jquery\\jquery-3.7.1.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
