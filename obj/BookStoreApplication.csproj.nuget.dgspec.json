@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\BookStoreApplication.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\BookStoreApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\BookStoreApplication.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\BookStoreApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\BookStoreApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\BookStoreApplication.csproj",
         "projectName": "BookStoreApplication",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\BookStoreApplication.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\BookStoreApplication.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Project\\WebApplication7\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Project\\BookStoreApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
