@@ -12,8 +12,6 @@
         public string CoverImageUrl { get; set; }
         public string BookPdfUrl { get; set; }
         public Language Language { get; set; }
-
         public ICollection<BookGallery> bookGallery { get; set; }
-
     }
 }
